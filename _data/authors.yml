@@ -1,18 +1,10 @@
 # Authors
 
-Billy Rick:
-  name        : "Billy Rick"
-  uri         : "http://thewhip.com"
-  email       : "billy@rick.com"
-  bio         : "What do you want, jewels? I am a very extravagant man."
-  avatar      : "/assets/images/bio-photo-2.jpg"
-  twitter     : "extravagantman"
-  google_plus : "BillyRick"
-
-Cornelius Fiddlebone:
-  name        : "Cornelius Fiddlebone"
-  email       : "cornelius@thewhip.com"
-  bio         : "I ordered what?"
-  avatar      : "/assets/images/bio-photo.jpg"
-  twitter     : "rhymeswithsackit"
-  google_plus : "CorneliusFiddlebone"
+Jay Stevens:
+    name        : "Jay Stevens"
+    email       : "jaystevens42@gmail.com"
+    bio         : "Budding game developer. Likes gameplay systems, level design, and procedural content."
+    avatar      : "/assets/images/bio-photo.jpg"
+    twitter     : "https://twitter.com/schemepunk"
+    github      : "https://github.com/jay2645"
+    linkedin    : "https://www.linkedin.com/in/jay2645/"

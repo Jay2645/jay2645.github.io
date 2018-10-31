@@ -75,15 +75,6 @@ footer:
       
 # Collections
 collections:
-  docs:
-    output: true
-    permalink: /:collection/:path/
-  recipes:
-    output: true
-    permalink: /:collection/:path/
-  pets:
-    output: true
-    permalink: /:collection/:path/
   portfolio:
     output: true
 permalink: /:collection/:path/
@@ -104,29 +95,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _docs
-  - scope:
-      path: ""
-      type: docs
-    values:
-      layout: single
-      author_profile: false
-      sidebar:
-        nav: "docs"
-  # _recipes
-  - scope:
-      path: ""
-      type: recipes
-    values:
-      layout: single
-      author_profile: true
-  # _pets
-  - scope:
-      path: ""
-      type: pets
-    values:
-      layout: single
-      author_profile: true
   # _portfolio
   - scope:
       path: ""
@@ -135,15 +103,7 @@ defaults:
       layout: single
       author_profile: false
 
-share: true
-
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-path: /tags/
-      
+share: true      
       
 # Build settings
 locale: "en-US"
@@ -198,6 +158,13 @@ keep_files:
   - .svn
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+path: /tags/
 
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "air" #"default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
