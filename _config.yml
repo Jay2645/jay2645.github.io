@@ -40,6 +40,7 @@ author:
   bio: "Passionate game developer seeks like-minded game to develop."
   location: >-
     1101 Stevens Ave, Apt 59
+    
     Santa Ana, CA, 92707
   links:
     - label: "Twitter"
@@ -51,7 +52,7 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
       url: "https://facebook.com/jay2645"
-    - label: "GitHub"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/jay2645/"
 
