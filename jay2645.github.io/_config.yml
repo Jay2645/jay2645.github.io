@@ -18,7 +18,7 @@ email: jaystevens42@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is Jay Stevens' personal portfolio and blog. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jay2645.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: schemepunk
 github_username:  jay2645
 
