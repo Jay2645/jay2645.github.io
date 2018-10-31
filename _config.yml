@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 name: "Jay Stevens"
-title: Jay Stevens' Portfolio
+title: Schemepunk
 email: jaystevens42@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is Jay Stevens' personal portfolio and blog. 
@@ -36,9 +36,11 @@ social:
     
 author:
   name: "Jay Stevens"
-#  avatar: "/assets/images/bio-photo.jpg"
+  avatar: "/assets/images/bio-photo.jpg"
   bio: "Passionate game developer seeks like-minded game to develop."
-  location: "Santa Ana, CA"
+  location: >-
+  1101 Stevens Ave, Apt 59
+  Santa Ana, CA, 92707
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -66,7 +68,7 @@ footer:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
       url: "https://facebook.com/jay2645"
-    - label: "GitHub"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/jay2645/"
       
