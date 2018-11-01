@@ -33,7 +33,7 @@ social:
     - "https://www.linkedin.com/in/jay2645/"
     - "https://twitter.com/schemepunk"
     - "https://facebook.com/jay2645"
-    - "jay2645.itch.io"
+    - "https://jay2645.itch.io"
     
 author:
   name: "Jay Stevens"
@@ -55,7 +55,7 @@ author:
       url: "https://www.linkedin.com/in/jay2645/"
     - label: "Itch.io"
       icon: "fab fa-fw fa-gamepad"
-      url: "jay2645.itch.io"
+      url: "https://jay2645.itch.io"
 
 search: false
 permalink: /:categories/:title/
@@ -73,6 +73,9 @@ footer:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
       url: "https://facebook.com/jay2645"
+    - label: "Itch.io"
+      icon: "fab fa-fw fa-gamepad"
+      url: "https://jay2645.itch.io"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/jay2645/"
