@@ -7,4 +7,4 @@ entries_layout: grid
 classes: wide
 ---
 
-Various models I've made over the years. Most of the stuff seen here is from work I've done with published games (mainly *Halo* and *Team Fortress 2*).
+A bunch of models that I've made. Most of the stuff seen here is from work I've done with published games (mainly *Halo* and *Team Fortress 2*).

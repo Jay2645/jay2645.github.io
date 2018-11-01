@@ -77,7 +77,11 @@ footer:
       
 # Collections
 collections:
-  portfolio:
+  games:
+    output: true
+  levels:
+    output: true
+  models:
     output: true
 permalink: /:collection/:path/
 
@@ -97,14 +101,28 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _portfolio
+  # _games
   - scope:
       path: ""
-      type: portfolio
+      type: games
     values:
       layout: single
       author_profile: false
-
+  # _levels
+  - scope:
+      path: ""
+      type: levels
+    values:
+      layout: single
+      author_profile: false
+  # _models
+  - scope:
+      path: ""
+      type: models
+    values:
+      layout: single
+      author_profile: false
+      
 share: true      
       
 # Build settings
