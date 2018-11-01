@@ -6,7 +6,7 @@ header:
   teaser: assets/images/level-halo-gridlock-5b.jpg
 sidebar:
   - title: "Worked on:"
-    text: "2009 - 2010"
+    text: "2009"
   - title: "Game:"
     text: "*Halo: Custom Edition*"
 gallery:

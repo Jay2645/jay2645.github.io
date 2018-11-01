@@ -1,6 +1,6 @@
 ---
-title: "(Team Fortress 2) Syrup"
-excerpt: "A King of the Hill map set in a syrup mill."
+title: "Schemepunk Models"
+excerpt: "A bunch of airship models used in the development of *Schemepunk*."
 header:
   image: /assets/images/unsplash-gallery-image-1.jpg
   teaser: assets/images/unsplash-gallery-image-1-th.jpg
@@ -8,7 +8,7 @@ sidebar:
   - title: "Worked on:"
     text: "2012"
   - title: "Game:"
-    text: "*Team Fortress 2*"
+    text: "*Schemepunk*"
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: assets/images/unsplash-gallery-image-1-th.jpg
@@ -20,7 +20,6 @@ gallery:
     image_path: assets/images/unsplash-gallery-image-3-th.jpg
     alt: "placeholder image 3"
 ---
-
 
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
