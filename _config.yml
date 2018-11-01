@@ -79,11 +79,13 @@ footer:
 collections:
   games:
     output: true
+    permalink: /:collection/:path/
   levels:
     output: true
+    permalink: /:collection/:path/
   models:
     output: true
-permalink: /:collection/:path/
+    permalink: /:collection/:path/
 
 defaults:
   # _posts
