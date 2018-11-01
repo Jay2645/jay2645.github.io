@@ -2,7 +2,7 @@
 title: Level Design
 layout: collection
 permalink: /levels/
-collection: level-design
+collection: levels
 entries_layout: grid
 classes: wide
 ---

@@ -2,7 +2,7 @@
 title: 3D Models
 layout: collection
 permalink: /models/
-collection: 3d-models
+collection: models
 entries_layout: grid
 classes: wide
 ---
