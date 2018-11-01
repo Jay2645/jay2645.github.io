@@ -23,11 +23,9 @@ main:
   - title: "Blog"
     url: /year-archive/
   - title: "Portfolio"
-    url: /collection-archive/
-  - title: "About"
+    url: /portfolio/
+  - title: "Contact"
     url: /about/
-  - title: "Terms &amp; Privacy Policy"
-    url: /terms/
 
 # sidebar navigation list sample
 sidebar-sample:

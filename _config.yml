@@ -72,6 +72,8 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/jay2645/"
+    - label: "Terms &amp; Privacy Policy"
+      url: /terms/
       
 # Collections
 collections:
