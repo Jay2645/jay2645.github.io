@@ -1,14 +1,14 @@
 # Header links
 main:
-  - title: "Home"
-    url: /
+#  - title: "Home"
+#    url: /
   - title: "Blog"
     url: /blog/
-  - title: "Game Design Portfolio"
+  - title: "Game Design"
     url: /games/
-  - title: "Level Design Portfolio"
+  - title: "Level Design"
     url: /levels/
-  - title: "3D Modeling Portfolio"
+  - title: "3D Models"
     url: /models/
   - title: "Resume"
     url: /resume
