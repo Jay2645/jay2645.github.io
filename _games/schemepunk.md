@@ -2,8 +2,8 @@
 title: "Schemepunk"
 excerpt: "Pilot your airship through the realm of Queen Victoria and ensure the dominance of the British Empire."
 header:
-  image: /assets/images/game-schemepunk-title.png
-  teaser: assets/images/game-schemepunk-title.png
+  image: /assets/images/game-schemepunk-title.jpg
+  teaser: assets/images/game-schemepunk-title.jpg
 sidebar:
   - title: "Worked on:"
     text: "2012 - 2013"
