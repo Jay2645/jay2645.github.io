@@ -42,7 +42,7 @@ author:
   location: "Santa Ana, CA"
   links:
     - label: "Itch.io"
-      icon: "fas fa-gamepad"
+      icon: "fas fa-fw fa-gamepad"
       url: "https://jay2645.itch.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
