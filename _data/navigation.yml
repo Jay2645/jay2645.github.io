@@ -3,8 +3,14 @@ main:
   - title: "Home"
     url: /
   - title: "Blog"
-    url: /year-archive/
-  - title: "Portfolio"
-    url: /portfolio/
-  - title: "Contact"
+    url: /blog/
+  - title: "Game Design Portfolio"
+    url: /games/
+  - title: "Level Design Portfolio"
+    url: /levels/
+  - title: "3D Modeling Portfolio"
+    url: /models/
+  - title: "Resume"
+    url: /resume
+  - title: "Contact Info"
     url: /about
