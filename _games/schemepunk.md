@@ -10,9 +10,9 @@ sidebar:
   - title: "Engine:"
     text: "Unity Engine"
   - title: "Language:"
-	text: "C#"
+    text: "C#"
   - title: "Genre:"
-	text: "Real-Time Strategy/First-Person Action Hybrid"
+    text: "Real-Time Strategy/First-Person Action Hybrid"
 ---
 
 Schemepunk was the first-ever game I tried to make. I taught myself C# to make it (I had previously taken a single Java class in college).

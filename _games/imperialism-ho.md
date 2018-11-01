@@ -10,9 +10,9 @@ sidebar:
   - title: "Engine:"
     text: "Unity (Prototype), Unreal Engine 4 (Active Development)"
   - title: "Language:"
-	text: "C#/C++"
+    text: "C# / C++"
   - title: "Genre:"
-	text: "First-Person Action Roguelike"
+    text: "First-Person Action Roguelike"
   - title: "Also known as:"
     text: "Tusks and Tigerskins"
 gallery:
