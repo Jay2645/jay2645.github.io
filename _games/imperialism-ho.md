@@ -88,4 +88,6 @@ Keep your eyes peeled, as you might discover a lost temple filled to the brim wi
 
 {% include gallery caption="Screenshots from the game's prototype." %}
 
-Imperialism, Ho! is still a work in progress. The above gallery features older screenshots from the game's prototype phase; the final version will use a simplified "low-poly" artstyle and will feature procedurally-generated jungles. The dungeon-crawling aspect has a prototype of its own; see [Traps and Treasure](/games/traps-and-treasure). The game's [Map Generation](https://github.com/Jay2645/Unreal-Polygonal-Map-Gen) and [Dungeon Generation](https://github.com/Jay2645/DungeonMaker) are both open-source.
+Imperialism, Ho! is still a work in progress. The above gallery features older screenshots from the game's prototype phase; the final version will use a simplified "low-poly" artstyle and will feature procedurally-generated jungles.
+
+The dungeon-crawling aspect has a prototype of its own; see [Traps and Treasure](/games/traps-and-treasure). The game's [Map Generation](https://github.com/Jay2645/Unreal-Polygonal-Map-Gen) and [Dungeon Generation](https://github.com/Jay2645/DungeonMaker) are both open-source.

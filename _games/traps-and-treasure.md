@@ -1,30 +1,38 @@
 ---
-title: "Baz Boom Identity"
-excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
+title: "Traps and Treasure"
+excerpt: "Loot-- err, explore a procedurally-generated temple while dodging traps and searching for a jackpot! (Downloadable)"
 header:
-  image: /assets/images/unsplash-gallery-image-1.jpg
-  teaser: assets/images/unsplash-gallery-image-1-th.jpg
+  image: /assets/images/game-trapsandtreasure-prototype-3.png
+  teaser: assets/images/game-trapsandtreasure-prototype-3.png
 sidebar:
-  - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+  - title: "Worked on:"
+    text: "2017 - Present"
+  - title: "Engine:"
+    text: "Unreal Engine 4"
+  - title: "Also known as:"
+    text: "Imperialism, Ho!"
+  - title: "Download link:"
+    text: "[Prototype](https://jay2645.itch.io/traps-and-treasure)"
 gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
+  - url: /assets/images/game-trapsandtreasure-prototype-1.png
+    image_path: assets/images/game-trapsandtreasure-prototype-1.png
+    alt: "Prototype image 1"
+  - url: /assets/images/game-trapsandtreasure-prototype-2.png
+    image_path: assets/images/game-trapsandtreasure-prototype-2.png
+    alt: "Prototype image 2"
+  - url: /assets/images/game-trapsandtreasure-prototype-4.png
+    image_path: assets/images/game-trapsandtreasure-prototype-4.png
+    alt: "Prototype image 3"
+  - url: /assets/images/game-trapsandtreasure-prototype-5.png
+    image_path: assets/images/game-trapsandtreasure-prototype-5.png
+    alt: "Prototype image 4"
+  - url: /assets/images/game-trapsandtreasure-prototype-6.png
+    image_path: assets/images/game-trapsandtreasure-prototype-6.png
+    alt: "Prototype image 5"
 ---
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
+Traps and Treasure is a prototype of the dungeon-crawling that will eventually make its way into [Imperialism, Ho!](/games/imperialism-ho) The dungeon is procedurally generated each time the game is run, adapted from [Joris Dormans' "Adventures in Level Design"](https://web.archive.org/web/20180625012615/http://www.jorisdormans.nl/pdf/dormans2010_AdventuresInLevelDesign.pdf) paper.
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+{% include gallery caption="Some screenshots from the prototype." %}
 
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+The prototype has a few issues, namely that dungeons generated require a lot of backtracking. This is being worked on, and you can follow along with the [open-source dungeon creation algorithm.](https://github.com/Jay2645/DungeonMaker)
