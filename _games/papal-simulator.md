@@ -9,6 +9,10 @@ sidebar:
     text: "2013 - 2014"
   - title: "Engine:"
     text: "Unity Engine"
+  - title: "Language:"
+	text: "C#"
+  - title: "Genre:"
+	text: "2D Platformer"
 ---
 
 Papal Simulator began being worked on around the time the *Surgeon Simulator* hit the mainstream, before a bunch of other "simulators" hit the market. Pope Francis had just become the new Pope and was all over the news, which was all I needed for one simple idea: "What about a game where you could *be* the Pope?"

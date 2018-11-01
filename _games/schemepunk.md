@@ -1,30 +1,32 @@
 ---
-title: "Baz Boom Identity"
-excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
+title: "Schemepunk"
+excerpt: "Pilot your airship through the realm of Queen Victoria and ensure the dominance of the British Empire."
 header:
-  image: /assets/images/unsplash-gallery-image-1.jpg
-  teaser: assets/images/unsplash-gallery-image-1-th.jpg
+  image: /assets/images/game-schemepunk-title.png
+  teaser: assets/images/game-schemepunk-title.png
 sidebar:
-  - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
-gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
+  - title: "Worked on:"
+    text: "2012 - 2013"
+  - title: "Engine:"
+    text: "Unity Engine"
+  - title: "Language:"
+	text: "C#"
+  - title: "Genre:"
+	text: "Real-Time Strategy/First-Person Action Hybrid"
 ---
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
+Schemepunk was the first-ever game I tried to make. I taught myself C# to make it (I had previously taken a single Java class in college).
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+![Papal Simulator]({{ site.url }}{{ site.baseurl }}/assets/images/game-schemepunk-prototype-1.png)
+{: .full}
 
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+![Papal Simulator]({{ site.url }}{{ site.baseurl }}/assets/images/game-schemepunk-prototype-2.png)
+{: .full}
+
+The gameplay involved 2 modes:
+
+* A top-down real-time strategy mode, where you commanded units in a "classical" RTS manner
+
+* A first-person shooter mode, where you "possessed" a unit and took control of it. For example, you could fly a plane attacking an airship, or you could become the captain of an airship and walk around on deck, giving orders to your crew (a couple years later, the game *Guns of Icarus Online* would do exactly that).
+
+I had vast ambitions and little experience, which was ultimately the death of this project. It's still a neat idea, but *Guns of Icarus Online* has filled part of the niche I wanted to fill, and ultimately I moved on to other projects.

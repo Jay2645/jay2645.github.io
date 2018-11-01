@@ -1,6 +1,6 @@
 ---
 title: "Shoot for the Moon"
-excerpt: "(Downloadable) The evil Communists have made it into space and are trying to kick the U.S. off of the moon!"
+excerpt: "**(Downloadable)** The evil Communists have made it into space and are trying to kick the U.S. off of the moon!"
 header:
   image: /assets/images/game-sftm-3.png
   teaser: assets/images/game-sftm-3.png
@@ -9,6 +9,10 @@ sidebar:
     text: "2017 - Present"
   - title: "Engine:"
     text: "Unreal Engine 4"
+  - title: "Language:"
+	text: "C++"
+  - title: "Genre:"
+	text: "First-Person Shooter"
   - title: "Also known as:"
     text: "Knockback"
   - title: "Download link:"

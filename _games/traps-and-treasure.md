@@ -1,6 +1,6 @@
 ---
 title: "Traps and Treasure"
-excerpt: "(Downloadable) Loot-- err, explore a procedurally-generated temple while dodging traps and searching for a jackpot!"
+excerpt: "**(Downloadable)** Loot-- err, explore a procedurally-generated temple while dodging traps and searching for a jackpot!"
 header:
   image: /assets/images/game-trapsandtreasure-prototype-3.png
   teaser: assets/images/game-trapsandtreasure-prototype-3.png
@@ -9,6 +9,10 @@ sidebar:
     text: "2017 - Present"
   - title: "Engine:"
     text: "Unreal Engine 4"
+  - title: "Language:"
+	text: "C++"
+  - title: "Genre:"
+	text: "First-Person Action Roguelike"
   - title: "Also known as:"
     text: "Imperialism, Ho!"
   - title: "Download link:"

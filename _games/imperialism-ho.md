@@ -9,6 +9,10 @@ sidebar:
     text: "2015 - Present"
   - title: "Engine:"
     text: "Unity (Prototype), Unreal Engine 4 (Active Development)"
+  - title: "Language:"
+	text: "C#/C++"
+  - title: "Genre:"
+	text: "First-Person Action Roguelike"
   - title: "Also known as:"
     text: "Tusks and Tigerskins"
 gallery:
