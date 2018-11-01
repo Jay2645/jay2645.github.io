@@ -17,10 +17,10 @@ sidebar:
 
 Schemepunk was the first-ever game I tried to make. I taught myself C# to make it (I had previously taken a single Java class in college).
 
-![Papal Simulator]({{ site.url }}{{ site.baseurl }}/assets/images/game-schemepunk-prototype-1.png)
+![Schemepunk image 1]({{ site.url }}{{ site.baseurl }}/assets/images/game-schemepunk-prototype-1.png)
 {: .full}
 
-![Papal Simulator]({{ site.url }}{{ site.baseurl }}/assets/images/game-schemepunk-prototype-2.png)
+![Schemepunk image 2]({{ site.url }}{{ site.baseurl }}/assets/images/game-schemepunk-prototype-2.png)
 {: .full}
 
 The gameplay involved 2 modes:

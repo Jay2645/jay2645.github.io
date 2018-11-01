@@ -1,30 +1,72 @@
 ---
-title: "Baz Boom Identity"
-excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
+title: "(Halo: Custom Edition) Gridlock"
+excerpt: "A \"sequel\" of sorts to my other Halo map, Domain."
 header:
-  image: /assets/images/unsplash-gallery-image-1.jpg
-  teaser: assets/images/unsplash-gallery-image-1-th.jpg
+  image: /assets/images/level-halo-gridlock-5b.jpg
+  teaser: assets/images/level-halo-gridlock-5b.jpg
 sidebar:
-  - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+  - title: "Worked on:"
+    text: "2009 - 2010"
+  - title: "Game:"
+    text: "*Halo: Custom Edition*"
 gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
+  - url: /assets/images/level-halo-gridlock-2.png
+    image_path: assets/images/level-halo-gridlock-2.png
+    alt: "Gridlock image 1"
+  - url: /assets/images/level-halo-gridlock-2a.png
+    image_path: assets/images/level-halo-gridlock-2a.png
+    alt: "Gridlock image 1a"
+  - url: /assets/images/level-halo-gridlock-3.png
+    image_path: assets/images/level-halo-gridlock-3.png
+    alt: "Gridlock image 2"
+  - url: /assets/images/level-halo-gridlock-3a.png
+    image_path: assets/images/level-halo-gridlock-3a.png
+    alt: "Gridlock image 2a"
+  - url: /assets/images/level-halo-gridlock-1.png
+    image_path: assets/images/level-halo-gridlock-1.png
+    alt: "Gridlock image 3"
+  - url: /assets/images/level-halo-gridlock-1a.png
+    image_path: assets/images/level-halo-gridlock-1a.png
+    alt: "Gridlock image 3a"
+  - url: /assets/images/level-halo-gridlock-4.png
+    image_path: assets/images/level-halo-gridlock-4.png
+    alt: "Gridlock image 4"
+  - url: /assets/images/level-halo-gridlock-4a.png
+    image_path: assets/images/level-halo-gridlock-4a.png
+    alt: "Gridlock image 4a"
+  - url: /assets/images/level-halo-gridlock-6.jpg
+    image_path: assets/images/level-halo-gridlock-6.jpg
+    alt: "Gridlock image 5"
+  - url: /assets/images/level-halo-gridlock-7.jpg
+    image_path: assets/images/level-halo-gridlock-7.jpg
+    alt: "Gridlock image 6"
+  - url: /assets/images/level-halo-gridlock-8.jpg
+    image_path: assets/images/level-halo-gridlock-8.jpg
+    alt: "Gridlock image 7"
 ---
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
+After the success of my previous map, ["Domain"](/levels/halo-domain), I was inspired to make a "sequel." This was my first time designing a map without using an already-made map as a reference.
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+{% include gallery caption="Gridlock pictures." %}
 
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+As with Domain, Gridlock was inspired by *Halo 3: ODST*, and some sections were directly taken from ODST concept art:
+
+![Gridlock ODST concept]({{ site.url }}{{ site.baseurl }}/assets/images/level-halo-gridlock-5-concept.jpg)
+{: .full}
+
+![Gridlock render 1]({{ site.url }}{{ site.baseurl }}/assets/images/level-halo-gridlock-5.jpg)
+{: .full}
+
+![Gridlock render 1]({{ site.url }}{{ site.baseurl }}/assets/images/level-halo-gridlock-5a.jpg)
+{: .full}
+
+![Gridlock render 1]({{ site.url }}{{ site.baseurl }}/assets/images/level-halo-gridlock-5b.jpg)
+{: .full}
+
+Gridlock's development was... troubled, to say the least. The first iteration of the map was somewhat rushed, and I wasn't happy with the results. I wound up deciding to completely remodel the map from scratch, making it much "cleaner" and less rushed this time. However, life got in the way, and I was never able to properly finish Gridlock or give it an actual release.
+
+Even so, somehow the map's files are still out on the internet somewhere. When using Google to try and pull up old renders of the map for my portfolio, I came across some people playing the first version of the map.
+
+As a disclaimer, this is not my video, just one I found:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vpo6C1Nn1V0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
