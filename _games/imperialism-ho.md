@@ -5,12 +5,12 @@ header:
   image: /assets/images/game-imperialismho-prototype-1.png
   teaser: assets/images/game-imperialismho-prototype-1.png
 sidebar:
-  - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+  - title: "Worked on:"
+    text: "2015 - Present"
+  - title: "Engine:"
+    text: "Unity (Prototype), Unreal Engine 4 (Active Development)"
+  - title: "Also known as:"
+    text: "Tusks and Tigerskins"
 gallery:
   - url: /assets/images/game-imperialismho-prototype-2.png
     image_path: assets/images/game-imperialismho-prototype-2.png
