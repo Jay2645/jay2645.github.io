@@ -1,6 +1,6 @@
 ---
 title: "Shoot for the Moon"
-excerpt: "The evil Communists have made it into space and are trying to kick the U.S. off of the moon! (Downloadable)"
+excerpt: "(Downloadable) The evil Communists have made it into space and are trying to kick the U.S. off of the moon!"
 header:
   image: /assets/images/game-sftm-3.png
   teaser: assets/images/game-sftm-3.png

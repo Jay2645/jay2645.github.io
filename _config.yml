@@ -54,7 +54,7 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/jay2645/"
     - label: "Itch.io"
-      icon: "fab fa-fw fa-gamepad"
+      icon: "fas fa-gamepad"
       url: "https://jay2645.itch.io"
 
 search: false
@@ -74,7 +74,7 @@ footer:
       icon: "fab fa-fw fa-facebook"
       url: "https://facebook.com/jay2645"
     - label: "Itch.io"
-      icon: "fab fa-fw fa-gamepad"
+      icon: "fas fa-fw fa-gamepad"
       url: "https://jay2645.itch.io"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"

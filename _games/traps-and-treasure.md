@@ -1,6 +1,6 @@
 ---
 title: "Traps and Treasure"
-excerpt: "Loot-- err, explore a procedurally-generated temple while dodging traps and searching for a jackpot! (Downloadable)"
+excerpt: "(Downloadable) Loot-- err, explore a procedurally-generated temple while dodging traps and searching for a jackpot!"
 header:
   image: /assets/images/game-trapsandtreasure-prototype-3.png
   teaser: assets/images/game-trapsandtreasure-prototype-3.png
