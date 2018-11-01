@@ -29,11 +29,11 @@ social:
   type:  "Person"
   name:  "Jay Stevens"
   links:
+    - "https://jay2645.itch.io"
     - "https://github.com/jay2645"
     - "https://www.linkedin.com/in/jay2645/"
     - "https://twitter.com/schemepunk"
     - "https://facebook.com/jay2645"
-    - "https://jay2645.itch.io"
     
 author:
   name: "Jay Stevens"
@@ -41,21 +41,21 @@ author:
   bio: "Passionate game developer seeks like-minded game to develop."
   location: "Santa Ana, CA"
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/schemepunk"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/jay2645"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook"
-      url: "https://facebook.com/jay2645"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/jay2645/"
     - label: "Itch.io"
       icon: "fas fa-gamepad"
       url: "https://jay2645.itch.io"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/jay2645"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/jay2645/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://facebook.com/jay2645"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/schemepunk"
 
 search: false
 permalink: /:categories/:title/
@@ -64,21 +64,21 @@ paginate_path: /page:num/
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/schemepunk"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/jay2645"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook"
-      url: "https://facebook.com/jay2645"
     - label: "Itch.io"
       icon: "fas fa-fw fa-gamepad"
       url: "https://jay2645.itch.io"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/jay2645"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/schemepunk"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/jay2645/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://facebook.com/jay2645"
     - label: "Terms &amp; Privacy Policy"
       url: /terms/
       
