@@ -5,7 +5,7 @@ sitemap: false
 permalink: /resume.html
 sidebar:
   - title: "Education"
-    text: "*California State University, Fullerton*\n
+    text: "*California State University, Fullerton*\n\n
     BS, Computer Science\n\n
     Expected Graduation: May 2020\n\n---\n\n
     *Mt. San Jacinto College*\n\n
@@ -34,9 +34,11 @@ sidebar:
 
   - title: "Operating Systems:"	
     text: "Windows - 18 years\n\n
-    Linux (Debian)	4 years"
+    Linux (Debian) - 4 years"
 
 ---
+
+***Address:*** *1101 Stevens Ave, Apt 59, Santa Ana, CA, 92707* **|** ***Phone:*** *909-957-1382* **|** ***Email:*** *jaystevens42@gmail.com*
 
 ## Projects:
 
