@@ -40,7 +40,9 @@ sidebar:
 
 ## Contact:
 
-***Address:*** *1101 Stevens Ave, Apt 59, Santa Ana, CA, 92707* | ***Phone:*** *909-957-1382* | ***Email:*** *jaystevens42@gmail.com*
+***Address:*** | ***Phone:*** | ***Email:***
+
+*1101 Stevens Ave, Apt 59, Santa Ana, CA, 92707* | *909-957-1382* | *jaystevens42@gmail.com*
 
 ## Projects:
 
