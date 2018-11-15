@@ -58,7 +58,7 @@ author:
       url: "https://twitter.com/schemepunk"
 
 search: false
-permalink: /:categories/:title/
+permalink: /
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 
