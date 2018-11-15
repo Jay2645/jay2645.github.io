@@ -5,18 +5,16 @@ sitemap: false
 permalink: /resume.html
 sidebar:
   - title: "Education"
-  - text: "California State University, Fullerton
+  - text: "California State University, Fullerton\n
   
-    BS, Computer Science
+    BS, Computer Science\n
 	
 	Expected Graduation: May 2020"
 ---
 
-#Projects:
+# Projects:
 
-**Traps and Treasure – C++ (Unreal Engine 4 Game)**
-
-https://jay2645.itch.io/traps-and-treasure
+[**Traps and Treasure – C++ (Unreal Engine 4 Game)**](https://jay2645.itch.io/traps-and-treasure)
 
 *	Developed a free-to-play prototype of a “roguelike” game
 
@@ -24,17 +22,13 @@ https://jay2645.itch.io/traps-and-treasure
 
 *	Source code for the implementation can be found on GitHub
 
-**Polygonal Map Generation – C++ (Unreal Engine 4 Plugin)**
-
-https://github.com/Jay2645/Unreal-Polygonal-Map-Gen/
+[**Polygonal Map Generation – C++ (Unreal Engine 4 Plugin)**](https://github.com/Jay2645/Unreal-Polygonal-Map-Gen/)
 
 *	Created an implementation of Red Blob Games’ “Polygonal Map Generation for Games” procedural island generation algorithm
 
 *	Designed as a C++ plugin for Unreal Engine 4
 
-**Todoist Integration – Python (Home Assistant Platform)**
-
-https://github.com/Jay2645/home-assistant/tree/add-todoist/ 
+[**Todoist Integration – Python (Home Assistant Platform)**](https://github.com/Jay2645/home-assistant/tree/add-todoist/ )
 
 *	Wrote a new platform for the Home Assistant home automation software integrating Todoist
 
@@ -44,7 +38,7 @@ https://github.com/Jay2645/home-assistant/tree/add-todoist/
 
 ---
 
-#Work Experience:
+# Work Experience:
 
 **The Walt Disney Company, Disneyland – Attractions Host**
 
