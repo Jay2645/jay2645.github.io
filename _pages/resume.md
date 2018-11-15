@@ -5,11 +5,39 @@ sitemap: false
 permalink: /resume.html
 sidebar:
   - title: "Education"
-  - text: "California State University, Fullerton\n
+  - text: "*California State University, Fullerton*\n
   
     BS, Computer Science\n
 	
-	Expected Graduation: May 2020"
+	Expected Graduation: May 2020\n\n
+	
+	*Mt. San Jacinto College*\n
+  
+    AA, Arts & Humanities"
+	
+  - title: "Programming Languages:"
+  - text: "C# - 6 years\n
+  C++ - 5 years\n
+Python	2 years\n
+Lua	1 year\n
+JavaScript	< 1 year\n
+Java	< 1 year\n
+Assembly	< 1 year"
+
+  - title: "Game Engines:"	
+  - text: "Unity Engine - 3 years\n
+Unreal Engine 4 - 3 years\n
+Source Engine - 1 year"
+
+  - title: "Software:"	
+  - text: Git - 5 years\n
+Adobe Photoshop - 3 years\n
+Autodesk 3DS Max - 2 years\n
+Autodesk Maya - < 1 year"
+
+  - title: "Operating Systems:"	
+  - text: "Windows - 18 years\n
+Linux (Debian)	4 years"
 ---
 
 # Projects:
@@ -18,23 +46,23 @@ sidebar:
 
 *	Developed a free-to-play prototype of a “roguelike” game
 
-*	Dungeon generation algorithm adapted from Adventures in Level Design: Generating Missions and Spaces for Action-Adventure Games
+*	Dungeon generation algorithm adapted from [Adventures in Level Design: Generating Missions and Spaces for Action-Adventure Games](https://dl.acm.org/citation.cfm?id=1814257&dl=ACM&coll=DL)
 
-*	Source code for the implementation can be found on GitHub
+*	Source code for the implementation [can be found on GitHub](https://github.com/Jay2645/DungeonMaker)
 
 [**Polygonal Map Generation – C++ (Unreal Engine 4 Plugin)**](https://github.com/Jay2645/Unreal-Polygonal-Map-Gen/)
 
-*	Created an implementation of Red Blob Games’ “Polygonal Map Generation for Games” procedural island generation algorithm
+*	Created an implementation of [Red Blob Games’ “Polygonal Map Generation for Games”](http://www-cs-students.stanford.edu/~amitp/game-programming/polygon-map-generation/) procedural island generation algorithm
 
 *	Designed as a C++ plugin for Unreal Engine 4
 
 [**Todoist Integration – Python (Home Assistant Platform)**](https://github.com/Jay2645/home-assistant/tree/add-todoist/ )
 
-*	Wrote a new platform for the Home Assistant home automation software integrating Todoist
+*	Wrote a new platform for the [Home Assistant](https://home-assistant.io/) home automation software integrating Todoist
 
 *	Code was vetted and met specific style guidelines
 
-*	The Pull Request was sent to end users as part of release 0.54
+*	[The Pull Request](https://github.com/home-assistant/home-assistant/pull/9236) was sent to end users as part of release 0.54
 
 ---
 
