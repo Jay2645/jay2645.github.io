@@ -40,7 +40,7 @@ Autodesk Maya - < 1 year"
 Linux (Debian)	4 years"
 ---
 
-# Projects:
+## Projects:
 
 [**Traps and Treasure – C++ (Unreal Engine 4 Game)**](https://jay2645.itch.io/traps-and-treasure)
 
@@ -66,7 +66,7 @@ Linux (Debian)	4 years"
 
 ---
 
-# Work Experience:
+## Work Experience:
 
 **The Walt Disney Company, Disneyland – Attractions Host**
 
