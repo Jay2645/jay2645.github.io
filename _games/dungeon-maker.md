@@ -2,7 +2,6 @@
 title: "Dungeon Maker (Unreal Engine 4 C++ Plugin)"
 excerpt: "An open-souce dungeon generation algorithm utilizing generative grammars, built in C++ for Unreal Engine 4."
 header:
-  image: /assets/images/github-logo.png
   teaser: assets/images/octocat.png
 tags:
   - link
@@ -12,7 +11,7 @@ tags:
 link: https://github.com/Jay2645/DungeonMaker
 ---
 
-# Dungeon Generator
+# [Dungeon Maker](https://github.com/Jay2645/DungeonMaker)
 
 A system for generating Zelda-like dungeons in UE4, using generative grammars.
 
