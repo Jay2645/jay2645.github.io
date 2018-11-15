@@ -6,41 +6,41 @@ permalink: /resume.html
 sidebar:
   - title: "Education"
     text: "*California State University, Fullerton*\n
-    BS, Computer Science\n
-    Expected Graduation: May 2020\n\n
-    *Mt. San Jacinto College*\n
+    BS, Computer Science\n\n
+    Expected Graduation: May 2020\n\n---\n\n
+    *Mt. San Jacinto College*\n\n
     AA, Arts & Humanities"
 
   - title: "Programming Languages:"
-    text: "C# - 6 years\n
-    C++ - 5 years\n
-    Python - 2 years\n
-    Lua - 1 year\n
-    JavaScript - < 1 year\n
-    Java - < 1 year\n
+    text: "C# - 6 years\n\n
+    C++ - 5 years\n\n
+    Python - 2 years\n\n
+    Lua - 1 year\n\n
+    JavaScript - < 1 year\n\n
+    Java - < 1 year\n\n
     Assembly - < 1 year"
 
 
   - title: "Game Engines:"	
-    text: "Unity Engine - 3 years\n
-    Unreal Engine 4 - 3 years\n
+    text: "Unity Engine - 3 years\n\n
+    Unreal Engine 4 - 3 years\n\n
     Source Engine - 1 year"
 
   - title: "Software:"	
-    text: "Git - 5 years\n
-    Adobe Photoshop - 3 years\n
-    Autodesk 3DS Max - 2 years\n
+    text: "Git - 5 years\n\n
+    Adobe Photoshop - 3 years\n\n
+    Autodesk 3DS Max - 2 years\n\n
     Autodesk Maya - < 1 year"
 
   - title: "Operating Systems:"	
-    text: "Windows - 18 years\n
+    text: "Windows - 18 years\n\n
     Linux (Debian)	4 years"
 
 ---
 
 ## Projects:
 
-[**Traps and Treasure – C++ (Unreal Engine 4 Game)**](https://jay2645.itch.io/traps-and-treasure)
+### [Traps and Treasure – C++ (Unreal Engine 4 Game)](https://jay2645.itch.io/traps-and-treasure)
 
 *	Developed a free-to-play prototype of a “roguelike” game
 
@@ -48,13 +48,13 @@ sidebar:
 
 *	Source code for the implementation [can be found on GitHub](https://github.com/Jay2645/DungeonMaker)
 
-[**Polygonal Map Generation – C++ (Unreal Engine 4 Plugin)**](https://github.com/Jay2645/Unreal-Polygonal-Map-Gen/)
+### [Polygonal Map Generation – C++ (Unreal Engine 4 Plugin)](https://github.com/Jay2645/Unreal-Polygonal-Map-Gen/)
 
 *	Created an implementation of [Red Blob Games’ “Polygonal Map Generation for Games”](http://www-cs-students.stanford.edu/~amitp/game-programming/polygon-map-generation/) procedural island generation algorithm
 
 *	Designed as a C++ plugin for Unreal Engine 4
 
-[**Todoist Integration – Python (Home Assistant Platform)**](https://github.com/Jay2645/home-assistant/tree/add-todoist/ )
+### [Todoist Integration – Python (Home Assistant Platform)](https://github.com/Jay2645/home-assistant/tree/add-todoist/ )
 
 *	Wrote a new platform for the [Home Assistant](https://home-assistant.io/) home automation software integrating Todoist
 
@@ -66,7 +66,7 @@ sidebar:
 
 ## Work Experience:
 
-**The Walt Disney Company, Disneyland – Attractions Host**
+### The Walt Disney Company, Disneyland – Attractions Host
 
 *September 2014 – Present*
 
@@ -76,7 +76,7 @@ sidebar:
 
 *	Named Enchanted Tiki Room’s 2017 “Cast Member of the Year”
 
-**Temecula Friday Night Lights – Editor**
+### Temecula Friday Night Lights – Editor
 
 *September 2011 – September 2014*
 
