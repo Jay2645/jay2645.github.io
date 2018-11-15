@@ -1,9 +1,7 @@
 # Header links
 main:
   - title: "Home"
-    url: /
-  - title: "Blog"
-    url: /blog/
+    url: /home
   - title: "Game Design"
     url: /games/
   - title: "Level Design"
