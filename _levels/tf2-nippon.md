@@ -1,6 +1,6 @@
 ---
 title: "(Team Fortress 2) Nippon"
-excerpt: "A Payload map set in Japan."
+excerpt: "A Payload map set in Japan, made for a contest."
 header:
   image: /assets/images/unsplash-gallery-image-1.jpg
   teaser: assets/images/unsplash-gallery-image-1-th.jpg

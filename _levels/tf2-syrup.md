@@ -1,6 +1,6 @@
 ---
 title: "(Team Fortress 2) Syrup"
-excerpt: "A King of the Hill map set in a syrup mill."
+excerpt: "A King of the Hill map set in a syrup mill, made in 72 hours."
 header:
   image: /assets/images/unsplash-gallery-image-1.jpg
   teaser: assets/images/unsplash-gallery-image-1-th.jpg

@@ -23,6 +23,8 @@ Schemepunk was the first-ever game I tried to make. I taught myself C# to make i
 ![Schemepunk image 2]({{ site.url }}{{ site.baseurl }}/assets/images/game-schemepunk-prototype-2.png)
 {: .full}
 
+See also [the models page](/models/schemepunk) for a collection of models I included within the game.
+
 The gameplay involved 2 modes:
 
 * A top-down real-time strategy mode, where you commanded units in a "classical" RTS manner
