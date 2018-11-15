@@ -6,38 +6,34 @@ permalink: /resume.html
 sidebar:
   - title: "Education"
   - text: "*California State University, Fullerton*\n
-  
     BS, Computer Science\n
-	
-	Expected Graduation: May 2020\n\n
-	
-	*Mt. San Jacinto College*\n
-  
+    Expected Graduation: May 2020\n\n
+    *Mt. San Jacinto College*\n
     AA, Arts & Humanities"
 	
   - title: "Programming Languages:"
   - text: "C# - 6 years\n
-  C++ - 5 years\n
-Python	2 years\n
-Lua	1 year\n
-JavaScript	< 1 year\n
-Java	< 1 year\n
-Assembly	< 1 year"
+    C++ - 5 years\n
+    Python	2 years\n
+    Lua	1 year\n
+    JavaScript	< 1 year\n
+    Java	< 1 year\n
+    Assembly	< 1 year"
 
   - title: "Game Engines:"	
   - text: "Unity Engine - 3 years\n
-Unreal Engine 4 - 3 years\n
-Source Engine - 1 year"
+    Unreal Engine 4 - 3 years\n
+    Source Engine - 1 year"
 
   - title: "Software:"	
   - text: Git - 5 years\n
-Adobe Photoshop - 3 years\n
-Autodesk 3DS Max - 2 years\n
-Autodesk Maya - < 1 year"
+    Adobe Photoshop - 3 years\n
+    Autodesk 3DS Max - 2 years\n
+    Autodesk Maya - < 1 year"
 
   - title: "Operating Systems:"	
   - text: "Windows - 18 years\n
-Linux (Debian)	4 years"
+    Linux (Debian)	4 years"
 ---
 
 ## Projects:
