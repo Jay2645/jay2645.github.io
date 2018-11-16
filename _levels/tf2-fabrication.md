@@ -11,7 +11,7 @@ sidebar:
     text: "*Team Fortress 2*"
 gallery:
   - url: /assets/images/level-tf2-fabrication-1.jpg
-    image_path: assets/images/level-tf2-fabrication-2.jpg
+    image_path: assets/images/level-tf2-fabrication-1.jpg
     alt: "Fabrication image 1"
   - url: /assets/images/level-tf2-fabrication-2.jpg
     image_path: assets/images/level-tf2-fabrication-2.jpg

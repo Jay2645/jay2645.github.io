@@ -11,7 +11,7 @@ sidebar:
     text: "*Schemepunk*"
 gallery:
   - url: /assets/images/model-schemepunk-fleet.png
-    image_path: assets/model-schemepunk-fleet.png
+    image_path: assets/images/model-schemepunk-fleet.png
     alt: "A fleet from Schemepunk"
   - url: /assets/images/model-schemepunk-airship-1.png
     image_path: assets/images/model-schemepunk-airship-1.png

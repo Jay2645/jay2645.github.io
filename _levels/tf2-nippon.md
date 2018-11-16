@@ -26,7 +26,7 @@ gallery:
     image_path: assets/images/level-tf2-nippon-10.jpg
     alt: "Nippon image 5"
   - url: /assets/images/level-tf2-nippon-12.jpg
-    image_path: assets/images/level-tf2-nippon-7.jpg
+    image_path: assets/images/level-tf2-nippon-12.jpg
     alt: "Nippon image 6"
   - url: /assets/images/level-tf2-nippon-2.jpg
     image_path: assets/images/level-tf2-nippon-2.jpg
