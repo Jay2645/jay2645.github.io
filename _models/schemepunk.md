@@ -2,26 +2,28 @@
 title: "Schemepunk Models"
 excerpt: "A bunch of airship models used in the development of *Schemepunk*."
 header:
-  image: /assets/images/unsplash-gallery-image-1.jpg
-  teaser: assets/images/unsplash-gallery-image-1-th.jpg
+  image: /assets/images/model-schemepunk-airship-2.png
+  teaser: assets/images/model-schemepunk-airship-2.png
 sidebar:
   - title: "Worked on:"
     text: "2012"
   - title: "Game:"
     text: "*Schemepunk*"
 gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
+  - url: /assets/images/model-schemepunk-fleet.png
+    image_path: assets/model-schemepunk-fleet.png
+    alt: "A fleet from Schemepunk"
+  - url: /assets/images/model-schemepunk-airship-1.png
+    image_path: assets/images/model-schemepunk-airship-1.png
+    alt: "Schemepunk airship"
+  - url: /assets/images/model-schemepunk-transport-3.png
+    image_path: assets/images/model-schemepunk-transport-3.png
+    alt: "Schemepunk transport"
+  - url: /assets/images/model-schemepunk-transport-4.png
+    image_path: assets/images/model-schemepunk-transport-4.png
+    alt: "Schemepunk transport"
 ---
 
+{% include gallery caption="A collection of models from Schemepunk." %}
 
-
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
-
+*Schemepunk* was the first game I ever worked on by myself, created in the Unity Engine. The game itself was nothing to look at -- I was just learning how to code at the time, so the project was far too ambitious for my skillset back then. However, I made a bunch of models for the game that I'm still really proud of, some of which are showcased here.
