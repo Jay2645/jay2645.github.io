@@ -9,4 +9,4 @@ permalink: /about.html
 
 * Cell: (909) 957-1382
 
-* LinkedIn: https://www.linkedin.com/in/jay2645/
+* LinkedIn: [https://www.linkedin.com/in/jay2645/](https://www.linkedin.com/in/jay2645/)
