@@ -14,6 +14,7 @@ sidebar:
   - title: "Programming Languages:"
     text: "C# - 6 years\n\n
     C++ - 5 years\n\n
+    Blueprints (Unreal) - 4 years\n\n
     Python - 2 years\n\n
     Lua - 1 year\n\n
     JavaScript - < 1 year\n\n
@@ -22,9 +23,9 @@ sidebar:
 
 
   - title: "Game Engines:"	
-    text: "Unity Engine - 3 years\n\n
-    Unreal Engine 4 - 3 years\n\n
-    Source Engine - 1 year"
+    text: "Unreal Engine 4 - 4 years\n\n
+    Unity Engine - 3 years\n\n
+    Source Engine (Hammer) - 1 year"
 
   - title: "Software:"	
     text: "Git - 5 years\n\n
@@ -55,6 +56,8 @@ sidebar:
 *	Created an implementation of [Red Blob Games’ “Polygonal Map Generation for Games”](http://www-cs-students.stanford.edu/~amitp/game-programming/polygon-map-generation/) procedural island generation algorithm
 
 *	Designed as a C++ plugin for Unreal Engine 4
+
+* Has been "starred" more than 100 times on GitHub.
 
 ### [Todoist Integration – Python (Home Assistant Platform)](https://github.com/Jay2645/home-assistant/tree/add-todoist/ )
 
