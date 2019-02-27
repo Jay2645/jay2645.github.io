@@ -209,9 +209,9 @@ plugins:
   - jekyll-paginate
 
 analytics:
-  provider               : "google-gtag"
+  provider: "google-gtag"
   google:
-  google_tracking_id          : "UA-135294550-1"
+    tracking_id: "UA-135294550-1"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
