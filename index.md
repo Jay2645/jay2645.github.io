@@ -11,4 +11,4 @@ I also have some non-game-related experience, which you can see on my [GitHub](h
 
 My favorite languages to work in are Python, C++, and C# (in that order, roughly). I also have some experience with both Java and JavaScript, although I don't use them as heavily as I do the other 3.
 
-Right now I'm looking for a job in the game design, level design, or game scripting/programming fields. I'm currently based in the Southern California area (Orange County), but can relocate. [View my contact info here!](/about)
+Right now I'm a college student looking for a job in the game design, level design, or game scripting/programming fields. I'm currently based in the Southern California area (Orange County), but can relocate. [View my contact info here!](/about)

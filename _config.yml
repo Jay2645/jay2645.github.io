@@ -103,6 +103,7 @@ defaults:
       layout: single
       author_profile: true
       related: true
+      analytics: true
   # _pages
   - scope:
       path: "_pages"
@@ -110,6 +111,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      analytics: true
   # _games
   - scope:
       path: ""
@@ -117,6 +119,7 @@ defaults:
     values:
       layout: single
       author_profile: false
+      analytics: true
   # _levels
   - scope:
       path: ""
@@ -124,6 +127,7 @@ defaults:
     values:
       layout: single
       author_profile: false
+      analytics: true
   # _models
   - scope:
       path: ""
@@ -131,6 +135,7 @@ defaults:
     values:
       layout: single
       author_profile: false
+      analytics: true
       
 share: true      
       
@@ -203,9 +208,10 @@ plugins:
   - jekyll-include-cache
   - jekyll-paginate
 
-head_scripts:
-  - https://www.googletagmanager.com/gtag/js?id=UA-135294550-1
-  - /assets/js/gtag.js
+analytics:
+  provider               : "google-gtag"
+  google:
+  google_tracking_id          : "UA-135294550-1"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
