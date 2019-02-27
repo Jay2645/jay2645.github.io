@@ -187,6 +187,7 @@ keep_files:
   - .svn
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+owner: "zOwkwF0h_k-xVfgfXfR08j9GwG0vWSWyetavFuHyvz4"
 
 category_archive:
   type: liquid
