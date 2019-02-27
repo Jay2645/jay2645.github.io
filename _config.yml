@@ -203,6 +203,10 @@ plugins:
   - jekyll-include-cache
   - jekyll-paginate
 
+head_scripts:
+  - https://www.googletagmanager.com/gtag/js?id=UA-135294550-1
+  - /assets/js/gtag.js
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
