@@ -20,7 +20,7 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /assets/images/thumbnails/model-schemepunk-fleet-thumb.png
     title: "Models"
-    excerpt: "A selection of models I've made for *Halo: Custom Edition*, *Team Fortress 2*, and my own games."
+    excerpt: "Models I've made for *Halo: Custom Edition*, *Team Fortress 2*, and my own games."
     url: "/models/"
     btn_label: "See More"
     btn_class: "btn--primary"
