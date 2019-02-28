@@ -1,6 +1,8 @@
 ---
-title: "Jay Stevens' Portfolio"
+title: "Schemepunk"
 layout: splash
+classes:
+  - landing
 permalink: /
 header:
   image: /assets/images/bio-header.png
