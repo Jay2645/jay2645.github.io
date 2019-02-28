@@ -32,13 +32,15 @@ Hello! My name is Jay Stevens! I love designing game systems and watching my des
 
 I'm a college student looking for a job in the game design, level design, or game scripting/programming fields. 
 
+---
+
 {% include feature_row %}
+
+[GitHub](https://github.com/jay2645){: .btn .btn--info} [Itch.io](https://jay2645.itch.io/){: .btn .btn--info} [LinkedIn](https://www.linkedin.com/in/jay2645/){: .btn .btn--info} [Facebook](https://facebook.com/jay2645){: .btn .btn--info} [Twitter](https://twitter.com/schemepunk){: .btn .btn--info}
 
 I'm currently based in the Southern California area (Orange County), but can relocate. You can [view my resume here](/resume), or just [view my contact info](/about).
 
 I also have some non-game-related experience, which you can see on my [GitHub](https://github.com/Jay2645). Examples are my [websocket-based Pokemon battle bot](https://github.com/Jay2645/Geniusect-2.0) and [some work I did on the Home Assistant home automation platform](https://github.com/Jay2645/home-assistant/tree/add-todoist). I've also created [a text adventure engine in C#](https://github.com/Jay2645/text-adventure), although I haven't maintained it in a while.
-
-[GitHub](https://github.com/jay2645){: .btn} [Itch.io](https://jay2645.itch.io/){: .btn} [LinkedIn](https://www.linkedin.com/in/jay2645/){: .btn} [Facebook](https://facebook.com/jay2645){: .btn} [Twitter](https://twitter.com/schemepunk){: .btn}
 
 # About Me
 
