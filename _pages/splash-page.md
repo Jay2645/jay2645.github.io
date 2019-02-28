@@ -11,7 +11,7 @@ feature_row:
     url: "/games/"
     btn_label: "See More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/thumbnails/level-halo-domain-thumb.jpg
+  - image_path: /assets/images/thumbnails/level-halo-domain-thumb.png
     alt: "Level design header image"
     title: "Level Design"
     excerpt: "Custom levels I've created for *Halo: Custom Edition* and *Team Fortress 2*."
