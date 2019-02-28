@@ -40,9 +40,11 @@ feature_row:
 
 Hello! My name is Jay Stevens! I love designing game systems and watching my designs come to life.
 
-Right now I'm a college student looking for a job in the game design, level design, or game scripting/programming fields. I'm currently based in the Southern California area (Orange County), but can relocate. You can [view my resume here](/resume), or just [view my contact info](/about).
+I'm a college student looking for a job in the game design, level design, or game scripting/programming fields. 
 
 {% include feature_row %}
+
+I'm currently based in the Southern California area (Orange County), but can relocate. You can [view my resume here](/resume), or just [view my contact info](/about).
 
 I also have some non-game-related experience, which you can see on my [GitHub](https://github.com/Jay2645). Examples are my [websocket-based Pokemon battle bot](https://github.com/Jay2645/Geniusect-2.0) and [some work I did on the Home Assistant home automation platform](https://github.com/Jay2645/home-assistant/tree/add-todoist). I've also created [a text adventure engine in C#](https://github.com/Jay2645/text-adventure), although I haven't maintained it in a while.
 
