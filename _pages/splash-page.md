@@ -4,14 +4,14 @@ layout: splash
 permalink: /splash-page/
 author_profile: true
 feature_row:
-  - image_path: assets/images/thumbnails/game-sftm-3-thumb.png
+  - image_path: assets/images/thumbnails/game-sftm-thumb.png
     alt: "Game design header image"
     title: "Game Design"
     excerpt: "Various games and systems that I've worked on."
     url: "/games/"
     btn_label: "See More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/thumbnails/level-halo-domain-3-thumb.jpg
+  - image_path: /assets/images/thumbnails/level-halo-domain-thumb.jpg
     alt: "Level design header image"
     title: "Level Design"
     excerpt: "Custom levels I've created for *Halo: Custom Edition* and *Team Fortress 2*."
