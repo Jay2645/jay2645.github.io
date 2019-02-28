@@ -3,24 +3,22 @@ title: "Home"
 layout: splash
 permalink: /splash-page/
 author_profile: true
-intro: 
-  - excerpt: 'Hello! My name is Jay Stevens! I love designing game systems and watching my designs come to life.'
 feature_row:
-  - image_path: assets/images/game-sftm-3.png
+  - image_path: assets/images/thumbnails/game-sftm-3-thumb.png
     alt: "Game design header image"
     title: "Game Design"
-    excerpt: "Various games and systems that I've created or worked on."
+    excerpt: "Various games and systems that I've worked on."
     url: "/games/"
     btn_label: "See More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/level-halo-domain-3.jpg
+  - image_path: /assets/images/thumbnails/level-halo-domain-3-thumb.jpg
     alt: "Level design header image"
     title: "Level Design"
     excerpt: "Custom levels I've created for *Halo: Custom Edition* and *Team Fortress 2*."
     url: "/levels/"
     btn_label: "See More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/model-schemepunk-fleet.png
+  - image_path: /assets/images/thumbnails/model-schemepunk-fleet-thumb.png
     title: "Models"
     excerpt: "A selection of models I've made for *Halo: Custom Edition*, *Team Fortress 2*, and my own games."
     url: "/models/"
@@ -28,7 +26,7 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
-{% include feature_row id="intro" type="center" %}
+Hello! My name is Jay Stevens! I love designing game systems and watching my designs come to life.
 
 Right now I'm a college student looking for a job in the game design, level design, or game scripting/programming fields. I'm currently based in the Southern California area (Orange County), but can relocate. You can [view my resume here](/resume), or just [view my contact info](/about).
 
