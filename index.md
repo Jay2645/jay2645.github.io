@@ -5,7 +5,7 @@ classes:
   - landing
 permalink: /
 header:
-  image: /assets/images/bio-header.png
+  overlay_image: /assets/images/bio-header.png
 feature_row:
   - image_path: assets/images/thumbnails/game-sftm-thumb.png
     alt: "Game design header image"
