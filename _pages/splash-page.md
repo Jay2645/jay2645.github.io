@@ -47,13 +47,11 @@ I also have some non-game-related experience, which you can see on my [GitHub](h
 
 I've been a lifelong gamer who's dreamed of working in the game development field since I was 12 years old. As a kid, I was obsessed with *Halo*, and the first custom maps I ever made were for *Halo: Custom Edition*, the PC version of *Halo 1*.
 
-My favorite languages to work in are Python, C++, and C# (in that order, roughly). I also have some experience with both Java and JavaScript, although I don't use them as heavily as I do the other 3. Additionally, I'm comfortable working in Adobe Photoshop and Autodesk 3DS Max.
+My favorite languages to work in are Python, C++, and C# (in that order, roughly). I also have some experience with both Java and JavaScript, although I don't use them as heavily as I do the other 3. Additionally, I'm comfortable working in Adobe Photoshop and Autodesk 3DS Max. I'm currently living in Santa Ana, CA, in an apartment with my girlfriend and our cat, Moo (yes, like a cow).
+
+{% include figure image_path="/assets/images/bio-moo.jpg" alt="A picture of Moo, because no website is truly complete without a picture of a cat." caption="[Moo has his own Instagram, run by my girlfriend!](https://www.instagram.com/the_moo_cat__/)
+{: .text-center}" %}
 
 As far as games are concerned, my favorite games to play are real-time strategy games, mostly Paradox Interactive titles like *Europa Universalis 4*, *Hearts of Iron 4*, and *Stellaris*. I'm also a big fan of *Overwatch*, *Star Citizen*, and *Hearthstone*, as well as some titles on the Nintendo Switch like *Super Smash Bros. Ultimate* and *Legend of Zelda: Breath of the Wild*.
 
 When it comes to making games, I have a tendency to gravitate towards shooters and platforming games. I really enjoy designing game systems -- things like interactions between different NPC "factions," procedural level generation, player ability/skill systems, etc.
-
-As far as my personal life is concerned, I'm currently living in Santa Ana, CA, in an apartment with my girlfriend and our cat, Moo (yes, like a cow).
-
-{% include figure image_path="/assets/images/bio-moo.jpg" alt="A picture of Moo, because no website is truly complete without a picture of a cat." caption="[Moo has his own Instagram, run by my girlfriend!](https://www.instagram.com/the_moo_cat__/)" %}
-{: .text-center}
