@@ -36,7 +36,7 @@ I'm a college student looking for a job in the game design, level design, or gam
 
 {% include feature_row %}
 
-[GitHub](https://github.com/jay2645){: .btn .btn--info} [Itch.io](https://jay2645.itch.io/){: .btn .btn--info} [LinkedIn](https://www.linkedin.com/in/jay2645/){: .btn .btn--info} [Facebook](https://facebook.com/jay2645){: .btn .btn--info} [Twitter](https://twitter.com/schemepunk){: .btn .btn--info}{: .notice}
+[GitHub](https://github.com/jay2645){: .btn .btn--info}{: .notice} [Itch.io](https://jay2645.itch.io/){: .btn .btn--info}{: .notice} [LinkedIn](https://www.linkedin.com/in/jay2645/){: .btn .btn--info}{: .notice} [Facebook](https://facebook.com/jay2645){: .btn .btn--info}{: .notice} [Twitter](https://twitter.com/schemepunk){: .btn .btn--info}{: .notice}
 {: .text-center}
 
 I'm currently based in the Southern California area (Orange County), but can relocate. You can [view my resume here](/resume), or just [view my contact info](/about).
