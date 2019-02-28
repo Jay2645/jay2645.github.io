@@ -3,7 +3,8 @@ title: "Home"
 layout: splash
 permalink: /splash-page/
 header:
-  image: /assets/images/bio-header-with-photo.png
+  overlay_image: /assets/images/bio-header-with-photo.png
+  excerpt: ""
   actions:
     - label: "GitHub"
       url: "https://github.com/jay2645"
@@ -48,4 +49,12 @@ I'm currently based in the Southern California area (Orange County), but can rel
 
 I also have some non-game-related experience, which you can see on my [GitHub](https://github.com/Jay2645). Examples are my [websocket-based Pokemon battle bot](https://github.com/Jay2645/Geniusect-2.0) and [some work I did on the Home Assistant home automation platform](https://github.com/Jay2645/home-assistant/tree/add-todoist). I've also created [a text adventure engine in C#](https://github.com/Jay2645/text-adventure), although I haven't maintained it in a while.
 
-My favorite languages to work in are Python, C++, and C# (in that order, roughly). I also have some experience with both Java and JavaScript, although I don't use them as heavily as I do the other 3.
+# About Me
+
+I've been a lifelong gamer who's dreamed of working in the game development field since I was 12 years old. As a kid, I was obsessed with *Halo*, and the first custom maps I ever made were for *Halo: Custom Edition*, the PC version of *Halo 1*.
+
+My favorite languages to work in are Python, C++, and C# (in that order, roughly). I also have some experience with both Java and JavaScript, although I don't use them as heavily as I do the other 3. Additionally, I'm comfortable working in Adobe Photoshop and Autodesk 3DS Max.
+
+As far as games are concerned, my favorite games to play are real-time strategy games, mostly Paradox Interactive titles like *Europa Universalis 4*, *Hearts of Iron 4*, and *Stellaris*. I'm also a big fan of *Overwatch*, *Star Citizen*, and *Hearthstone*, as well as some titles on the Nintendo Switch like *Super Smash Bros. Ultimate* and *Legend of Zelda: Breath of the Wild*.
+
+When it comes to making games, I have a tendency to gravitate towards shooters and platforming games. I really enjoy designing game systems -- things like interactions between different NPC "factions," procedural level generation, player ability/skill systems, etc.
