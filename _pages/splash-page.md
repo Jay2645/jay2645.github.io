@@ -1,67 +1,39 @@
 ---
-title: "Splash Page"
+title: "Home"
 layout: splash
 permalink: /splash-page/
-date: 2016-03-23T11:48:41-04:00
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/unsplash-image-1.jpg
-  actions:
-    - label: "Download"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+author_profile: true
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 'Hello! My name is Jay Stevens! I love designing game systems and watching my designs come to life.'
 feature_row:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
+  - image_path: assets/images/game-sftm-3.png
+    alt: "Game design header image"
+    title: "Game Design"
+    excerpt: "Various games and systems that I've created or worked on."
+    url: "/games/"
+    btn_label: "See More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-feature_row2:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
-    btn_label: "Read More"
+  - image_path: /assets/images/level-halo-domain-3.jpg
+    alt: "Level design header image"
+    title: "Level Design"
+    excerpt: "Custom levels I've created for *Halo: Custom Edition* and *Team Fortress 2*."
+    url: "/levels/"
+    btn_label: "See More"
     btn_class: "btn--primary"
-feature_row3:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row4:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
-    btn_label: "Read More"
+  - image_path: /assets/images/model-schemepunk-fleet.png
+    title: "Models"
+    excerpt: "A selection of models I've made for *Halo: Custom Edition*, *Team Fortress 2*, and my own games."
+    url: "/models/"
+    btn_label: "See More"
     btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
 
+Right now I'm a college student looking for a job in the game design, level design, or game scripting/programming fields. I'm currently based in the Southern California area (Orange County), but can relocate. You can [view my resume here](/resume), or just [view my contact info](/about).
+
 {% include feature_row %}
 
-{% include feature_row id="feature_row2" type="left" %}
+I also have some non-game-related experience, which you can see on my [GitHub](https://github.com/Jay2645). Examples are my [websocket-based Pokemon battle bot](https://github.com/Jay2645/Geniusect-2.0) and [some work I did on the Home Assistant home automation platform](https://github.com/Jay2645/home-assistant/tree/add-todoist). I've also created [a text adventure engine in C#](https://github.com/Jay2645/text-adventure), although I haven't maintained it in a while.
 
-{% include feature_row id="feature_row3" type="right" %}
-
-{% include feature_row id="feature_row4" type="center" %}
+My favorite languages to work in are Python, C++, and C# (in that order, roughly). I also have some experience with both Java and JavaScript, although I don't use them as heavily as I do the other 3.
