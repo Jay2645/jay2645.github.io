@@ -2,7 +2,19 @@
 title: "Home"
 layout: splash
 permalink: /splash-page/
-author_profile: true
+header:
+  image: /assets/images/bio-header-with-photo.png
+  actions:
+    - label: "GitHub"
+      url: "https://github.com/jay2645"
+    - label: "Itch.io"
+      url: "https://jay2645.itch.io/"
+    - label: "LinkedIn"
+      url: "https://www.linkedin.com/in/jay2645/"
+    - label: "Facebook"
+      url: "https://facebook.com/jay2645"
+    - label: "Twitter"
+      url: "https://twitter.com/schemepunk"
 feature_row:
   - image_path: assets/images/thumbnails/game-sftm-thumb.png
     alt: "Game design header image"
