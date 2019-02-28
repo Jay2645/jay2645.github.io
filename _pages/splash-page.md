@@ -54,4 +54,4 @@ When it comes to making games, I have a tendency to gravitate towards shooters a
 
 As far as my personal life is concerned, I'm currently living in Santa Ana, CA, in an apartment with my girlfriend and our cat, Moo (yes, like a cow).
 
-{% include figure image_path="/assets/images/bio-moo.jpg" alt="A picture of Moo, because no website is truly complete without a picture of a cat." caption="[Moo has his own Instagram, run by my girlfriend!](https://www.instagram.com/the_moo_cat__/)" %}
+{% include figure image_path="/assets/images/bio-moo.jpg" alt="A picture of Moo, because no website is truly complete without a picture of a cat." caption="[Moo has his own Instagram, run by my girlfriend!](https://www.instagram.com/the_moo_cat__/){: .text-center}" %}
