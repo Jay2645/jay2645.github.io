@@ -38,7 +38,29 @@ Shoot for the Moon began life as [an entry for Ludum Dare 40, "The more you have
 
 {% include gallery caption="Pictures of the prototype." %}
 
-After the jam, work continued on the game, with a departure from the stock Unreal Engine models and a more solid codebase. Online play is supported, as well as local co-op. My ultimate goal is a PC and Nintendo Switch release.
+The game itself takes inspiration from *Super Smash Bros.* in that it foregoes the "traditional" health system. Instead, as you take damage, a "damage percent" goes up. At higher damage percents, the player receives more knockback when they take damage. Once the player gets knocked off the stage, they are out (similar to sumo wrestling).
+
+The twist *Shoot for the Moon* brings is you don't win by being the person with the most kills. Instead, you win by having the highest damage at the end of the round. This was added to try and discourage "camping," adding a "fast and furious" feel to the game. Even so, I was afraid that this mechanic would make players not want to shoot at one another -- there was no incentive in shooting someone, just in getting hit.
+
+The solution was to add a "vampirism" effect, where you take all the damage a player had when you successfully kill that player. With that tweak, it made "securing the kill" an important part of the game, plus it accentuated the "fast and furious" gameplay by slowing causing overall damage totals to rise across the entire population of players over the course of a match. At the end of the game, people are flying absolutely everywhere, damage totals are ridiculously high, and overall the game was fun to play.
+
+That was the game I launched as part of the Ludum Dare. 
+
+---
+
+After the jam, work continued on the game, with a departure from the stock Unreal Engine models and a more solid codebase. I moved from Blueprints to C++, plus added online play and local couch co-op.
+
+## The Problem
+
+{% include figure image_path="https://media.giphy.com/media/xTiIzFsXVqp5QvEBTG/giphy.gif" alt="It's over, Anakin. I have the high ground." caption="Demonstrated here by Obi-Wan Kenobi himself." %}
+
+Players would get launched. What goes up must come down. And when they came down, they landed on top of a rooftop or piece of scenery, giving them the perfect vantage point to look over the battlefield and get shots in without exposing themselves much in return.
+
+Another problem: Players could be pinned against the wall and continuously shot up into the air. They would bump against the walls and land back on top of the person who shot at them, who would shoot at them again, throwing them up in the air, they would land on top of the person who shot them, etc. -- effectively "juggling" the player unfortunate enough to get stuck against a wall.
+
+I realized that both problems could be solved fairly simply by giving the players more aerial mobility. I gave players jetpacks which could be used to boost them high up into the air -- letting them attack people who were camping out in high places, as well as giving them the chance to escape when they were being juggled.
+
+---
 
 ![Shoot for the Moon image 1]({{ site.url }}{{ site.baseurl }}/assets/images/game-sftm-1.png)
 {: .full}
