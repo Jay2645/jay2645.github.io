@@ -30,9 +30,7 @@ feature_row:
 
 ---
 
-Hello! My name is Jay Stevens! I love designing game systems and watching my designs come to life.
-
-I'm a college student looking for a job in the game design, level design, or game scripting/programming fields. 
+Hello! My name is Jay Stevens! I'm a college student looking for a job in the game design, level design, or game scripting/programming fields. I love designing game systems and watching my designs come to life.
 
 ---
 
