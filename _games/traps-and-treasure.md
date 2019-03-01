@@ -2,7 +2,7 @@
 title: "Traps and Treasure"
 excerpt: "**(Downloadable)** Loot-- err, explore a procedurally-generated temple while dodging traps and searching for a jackpot!"
 header:
-  image: /assets/images/game-trapsandtreasure-prototype-3.png
+  overlay_image: /assets/images/game-trapsandtreasure-prototype-3.png
   teaser: assets/images/game-trapsandtreasure-prototype-3.png
 sidebar:
   - title: "Worked on:"
@@ -35,10 +35,16 @@ gallery:
     alt: "Prototype image 5"
 ---
 
-Traps and Treasure is a prototype of the dungeon-crawling that will eventually make its way into [Imperialism, Ho!](/games/imperialism-ho) The dungeon is procedurally generated each time the game is run, adapted from [Joris Dormans' "Adventures in Level Design"](https://web.archive.org/web/20180625012615/http://www.jorisdormans.nl/pdf/dormans2010_AdventuresInLevelDesign.pdf) paper.
-
-
+Traps and Treasure is a prototype of the dungeon-crawling that will eventually make its way into another game I'm working on, Imperialism, Ho! The dungeon is procedurally generated each time the game is run, adapted from [Joris Dormans' "Adventures in Level Design"](https://web.archive.org/web/20180625012615/http://www.jorisdormans.nl/pdf/dormans2010_AdventuresInLevelDesign.pdf) paper.
 
 {% include gallery caption="Some screenshots from the prototype." %}
 
 The prototype has a few issues, namely that dungeons generated require a lot of backtracking. This is being worked on, and you can follow along with the [open-source dungeon creation algorithm.](https://github.com/Jay2645/DungeonMaker)
+
+I created all the code for the game and adapted the core generation code from the aforementioned paper. Otherwise:
+
+* Art is from the [Simple Temples](https://www.unrealengine.com/marketplace/en-US/item/da8740323fd74b36acc0b8a349320cd5) and [Simple Dungeons](https://www.unrealengine.com/marketplace/en-US/item/62bf02fd54014a53adb8b594f20c8bfc) packs.
+
+* UI is from the [Cartoon UI Paper Pack](https://www.unrealengine.com/marketplace/en-US/item/b2b6853327bb4c03bdeebbdc3f0b071c).
+
+* Cel Shader is a heavily modified version of a shader from the [Advanced Cel Shader Pack](https://www.unrealengine.com/marketplace/en-US/item/73d7b174d3dc49b4992ad2d1b5760a42).
