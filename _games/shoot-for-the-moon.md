@@ -90,7 +90,7 @@ Otherwise:
 
 * The skybox comes from the [StarSphere Marketplace asset](https://www.unrealengine.com/marketplace/en-US/item/03afa1548b5c4b49b3e5c8f4a0e44444).
 
-* Props from [Simple Space Interiors](https://www.unrealengine.com/marketplace/en-US/item/d8c42ffc204e42c5864012f9226ddbe3) and [Simple Space](https://www.unrealengine.com/marketplace/en-US/item/ac79973b35514228b8853c561e26e066).
+* Props (including moons, planets, etc.) from [Simple Space Interiors](https://www.unrealengine.com/marketplace/en-US/item/d8c42ffc204e42c5864012f9226ddbe3) and [Simple Space](https://www.unrealengine.com/marketplace/en-US/item/ac79973b35514228b8853c561e26e066).
 
 * The guns are Creative Commons Zero assets from [the always-amazing Quaternius](https://www.reddit.com/r/gamedev/comments/8n5931/free_lowpoly_scifi_guns/).
 
