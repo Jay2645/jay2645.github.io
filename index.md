@@ -39,7 +39,7 @@ Hello! My name is Jay Stevens! I'm a college student looking for a job in the ga
 [GitHub](https://github.com/jay2645){: .btn .btn--info}{: .notice} [Itch.io](https://jay2645.itch.io/){: .btn .btn--info}{: .notice} [LinkedIn](https://www.linkedin.com/in/jay2645/){: .btn .btn--info}{: .notice} [Facebook](https://facebook.com/jay2645){: .btn .btn--info}{: .notice} [Twitter](https://twitter.com/schemepunk){: .btn .btn--info}{: .notice}
 {: .text-center}
 
-![Picture of me]("/assets/images/bio-photo-small.png"){: .align-left} I'm currently based in the Southern California area (Orange County), but can relocate. You can [view my resume here](/resume), or just [view my contact info](/about).
+![Picture of me](/assets/images/bio-photo-small.png){: .align-left} I'm currently based in the Southern California area (Orange County), but can relocate. You can [view my resume here](/resume), or just [view my contact info](/about).
 
 I also have some software development experience outside of game development, which you can see on my [GitHub](https://github.com/Jay2645). Examples are my [websocket-based Pokemon battle bot](https://github.com/Jay2645/Geniusect-2.0) and [some work I did on the Home Assistant home automation platform](https://github.com/Jay2645/home-assistant/tree/add-todoist). I've also created [a text adventure engine in C#](https://github.com/Jay2645/text-adventure), although I haven't maintained it in a while.
 
