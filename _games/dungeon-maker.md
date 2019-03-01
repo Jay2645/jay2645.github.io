@@ -20,3 +20,5 @@ Spaces for Action Adventure Games"](https://pdfs.semanticscholar.org/5716/8efaa5
 "](http://www.beckylavender.co.uk/uploads/1/5/1/4/15147006/zelda-dissertation.pdf) (PDF, main website is [here](http://www.beckylavender.co.uk/the-zelda-dungeon-generator.html)).
 
 The grammar state machine is based on [the state machine created in one of Epic Games' live training sessions.](https://www.youtube.com/watch?v=hr9ybCCPw9Y)
+
+Everything not related to the above was written by myself.

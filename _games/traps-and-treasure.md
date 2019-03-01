@@ -37,6 +37,8 @@ gallery:
 
 Traps and Treasure is a prototype of the dungeon-crawling that will eventually make its way into [Imperialism, Ho!](/games/imperialism-ho) The dungeon is procedurally generated each time the game is run, adapted from [Joris Dormans' "Adventures in Level Design"](https://web.archive.org/web/20180625012615/http://www.jorisdormans.nl/pdf/dormans2010_AdventuresInLevelDesign.pdf) paper.
 
+
+
 {% include gallery caption="Some screenshots from the prototype." %}
 
 The prototype has a few issues, namely that dungeons generated require a lot of backtracking. This is being worked on, and you can follow along with the [open-source dungeon creation algorithm.](https://github.com/Jay2645/DungeonMaker)
