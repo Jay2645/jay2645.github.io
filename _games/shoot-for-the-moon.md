@@ -2,7 +2,7 @@
 title: "Shoot for the Moon"
 excerpt: "**(Downloadable)** The evil Communists have made it into space and are trying to kick the U.S. off of the moon!"
 header:
-  image: /assets/images/game-sftm-3.png
+  overlay_image: /assets/images/game-sftm-3.png
   teaser: assets/images/game-sftm-3.png
 sidebar:
   - title: "Worked on:"
@@ -33,6 +33,8 @@ gallery:
 tags:
   - Downloadable
 ---
+
+![Shoot for the Moon](https://thumbs.gfycat.com/SlightWhimsicalBighorn-small.gif)
 
 Shoot for the Moon began life as [an entry for Ludum Dare 40, "The more you have, the worse it is."](https://ldjam.com/events/ludum-dare/40/knockback)  I'm proud that I placed fairly high in the "fun" category (164th out of 2886).
 
