@@ -38,13 +38,17 @@ Shoot for the Moon began life as [an entry for Ludum Dare 40, "The more you have
 
 {% include gallery caption="Pictures of the prototype." %}
 
+## Gameplay
+
 The game itself takes inspiration from *Super Smash Bros.* in that it foregoes the "traditional" health system. Instead, as you take damage, a "damage percent" goes up. At higher damage percents, the player receives more knockback when they take damage. Once the player gets knocked off the stage, they are out (similar to sumo wrestling).
 
 The twist *Shoot for the Moon* brings is you don't win by being the person with the most kills. Instead, you win by having the highest damage at the end of the round. This was added to try and discourage "camping," adding a "fast and furious" feel to the game. Even so, I was afraid that this mechanic would make players not want to shoot at one another -- there was no incentive in shooting someone, just in getting hit.
 
-The solution was to add a "vampirism" effect, where you take all the damage a player had when you successfully kill that player. With that tweak, it made "securing the kill" an important part of the game, plus it accentuated the "fast and furious" gameplay by slowing causing overall damage totals to rise across the entire population of players over the course of a match. At the end of the game, people are flying absolutely everywhere, damage totals are ridiculously high, and overall the game was fun to play.
+![Damage vampirism!](https://thumbs.gfycat.com/CreepyGoodnaturedAdamsstaghornedbeetle-small.gif)
 
-That was the game I launched as part of the Ludum Dare. 
+The solution was to add a "vampirism" effect, where you take all the damage a player had when you successfully kill that player. With that tweak, it made "securing the kill" an important part of the game. The change also accentuated the "fast and furious" gameplay by causing damage totals to rise across the board over the course of a match. At the end of the game, people are flying absolutely everywhere, damage totals are ridiculously high, and overall the game was fun to play (as indicated by my Ludum Dare scores).
+
+That was the game I launched as part of the Ludum Dare, and what [you can download here.](https://jay2645.itch.io/knockback)
 
 ---
 
@@ -59,6 +63,14 @@ Players would get launched. What goes up must come down. And when they came down
 Another problem: Players could be pinned against the wall and continuously shot up into the air. They would bump against the walls and land back on top of the person who shot at them, who would shoot at them again, throwing them up in the air, they would land on top of the person who shot them, etc. -- effectively "juggling" the player unfortunate enough to get stuck against a wall.
 
 I realized that both problems could be solved fairly simply by giving the players more aerial mobility. I gave players jetpacks which could be used to boost them high up into the air -- letting them attack people who were camping out in high places, as well as giving them the chance to escape when they were being juggled.
+
+## Charging into Battle
+
+As a kid, I was a massive fan of the *Halo* games. *Halo* has what Bungie called the "golden triangle" of weapons, grenades, and melee. It adds depth to the game by giving the player multiple options -- grenades to help with crowd control, melee to kill unsuspecting enemies or kill off weakened enemies, and weapons to use in every other instance.
+
+*Shoot for the Moon* only had 2 options: shoot or run. On some level, there's a certain fun in simplicity, but I wanted to try and add depth to the game. I wanted to give the player options, and I decided to take a page from Bungie's playbook and added a "charging" mechanic to try and help with crowd control. The player could choose to charge their weapon up to cause it to explode and deal knockback over a wide area. I decided to tie this into the same meter that gives fuel to their jetpack.
+
+This caused the intended effect, but it also caused fewer shots to be fired overall, which slowed down the gameplay considerably. I'm still going back and forth over whether I want to keep this change or convert it to a secondary fire "grenade" option.
 
 ---
 
