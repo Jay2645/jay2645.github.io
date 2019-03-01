@@ -10,7 +10,7 @@ feature_row:
   - image_path: assets/images/thumbnails/game-sftm-thumb.png
     alt: "Game design header image"
     title: "Game Design"
-    excerpt: "Various games and systems that I've worked on."
+    excerpt: "Various games and systems that I've worked on, both games and engine tools."
     url: "/games/"
     btn_label: "See More"
     btn_class: "btn--primary"
