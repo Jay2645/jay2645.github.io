@@ -2,7 +2,7 @@
 title: "(Team Fortress 2) Dockyard"
 excerpt: "My first-ever *Team Fortress 2* map, a Payload map set at a dockyard."
 header:
-  image: /assets/images/level-tf2-dockyard-1.jpg
+  overlay_image: /assets/images/level-tf2-dockyard-1.jpg
   teaser: assets/images/level-tf2-dockyard-1.jpg
 sidebar:
   - title: "Worked on:"

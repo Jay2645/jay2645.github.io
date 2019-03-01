@@ -2,7 +2,7 @@
 title: "(Halo: Custom Edition) Domain"
 excerpt: "My first finished *Halo* map, a reimagining of Halo 2's map \"Turf.\""
 header:
-  image: /assets/images/level-halo-domain-1.jpg
+  overlay_image: /assets/images/level-halo-domain-1.jpg
   teaser: assets/images/level-halo-domain-1.jpg
 sidebar:
   - title: "Worked on:"

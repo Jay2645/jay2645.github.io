@@ -2,7 +2,7 @@
 title: "(Team Fortress 2) Nippon"
 excerpt: "A Payload map set in Japan, made for a contest."
 header:
-  image: /assets/images/level-tf2-nippon-5.jpg
+  overlay_image: /assets/images/level-tf2-nippon-5.jpg
   teaser: assets/images/level-tf2-nippon-5.jpg
 sidebar:
   - title: "Worked on:"

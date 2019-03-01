@@ -2,7 +2,7 @@
 title: "(Halo: Custom Edition) Gridlock"
 excerpt: "A \"sequel\" of sorts to my other Halo map, Domain."
 header:
-  image: /assets/images/level-halo-gridlock-5b.jpg
+  overlay_image: /assets/images/level-halo-gridlock-5b.jpg
   teaser: assets/images/level-halo-gridlock-5b.jpg
 sidebar:
   - title: "Worked on:"

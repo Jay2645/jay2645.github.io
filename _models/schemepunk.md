@@ -2,7 +2,7 @@
 title: "Schemepunk Models"
 excerpt: "A bunch of airship models used in the development of *Schemepunk*."
 header:
-  image: /assets/images/model-schemepunk-airship-2.png
+  overlay_image: /assets/images/model-schemepunk-airship-2.png
   teaser: assets/images/model-schemepunk-airship-2.png
 sidebar:
   - title: "Worked on:"

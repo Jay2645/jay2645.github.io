@@ -2,7 +2,7 @@
 title: "Star Wars Models"
 excerpt: "An assortment of models from an old Star Wars total conversion mod I was working on."
 header:
-  image: /assets/images/model-sw-atat-3.jpg
+  overlay_image: /assets/images/model-sw-atat-3.jpg
   teaser: assets/images/model-sw-atat-3.jpg
 sidebar:
   - title: "Worked on:"

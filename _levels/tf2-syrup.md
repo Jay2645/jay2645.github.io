@@ -2,7 +2,7 @@
 title: "(Team Fortress 2) Syrup"
 excerpt: "A King of the Hill map set in a syrup mill, made in 72 hours."
 header:
-  image: /assets/images/level-tf2-syrup-1.jpg
+  overlay_image: /assets/images/level-tf2-syrup-1.jpg
   teaser: assets/images/level-tf2-syrup-1.jpg
 sidebar:
   - title: "Worked on:"

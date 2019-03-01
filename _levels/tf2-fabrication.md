@@ -2,7 +2,7 @@
 title: "(Team Fortress 2) Fabrication"
 excerpt: "A Control Point map set in a construction site."
 header:
-  image: /assets/images/level-tf2-fabrication-5.jpg
+  overlay_image: /assets/images/level-tf2-fabrication-5.jpg
   teaser: assets/images/level-tf2-fabrication-5.jpg
 sidebar:
   - title: "Worked on:"
