@@ -66,7 +66,7 @@ Another problem: Players could be pinned against the wall and continuously shot 
 
 I realized that both problems could be solved fairly simply by giving the players more aerial mobility. I gave players jetpacks which could be used to boost them high up into the air -- letting them attack people who were camping out in high places, as well as giving them the chance to escape when they were being juggled.
 
-[Jetpacks!](https://thumbs.gfycat.com/InsignificantGraveLeech-small.gif)
+![Now with jetpacks!](https://thumbs.gfycat.com/InsignificantGraveLeech-small.gif)
 
 ## Charging into Battle
 
